@@ -1,0 +1,14 @@
+{
+  "name": "video-streamming",
+  "version": "1.0.0",
+  "description": "Video streamming platform like youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "video-Streamming"
+  ],
+  "author": "Hritesh Saha",
+  "license": "ISC"
+}
